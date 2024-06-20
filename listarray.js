@@ -8,6 +8,8 @@ let nomes = ["João","Vinícius","Rodrigo","Arthur"] //sintaxe literal
 let names = new Array("João","Vinícius","Rodrigo","Arthur") // sintaxe função construtora
 
 
-console.log(nomes)
+for(let i = 0; i < 4; i++){
+    document.write("Nome: " + names[i] + "<br>")
+}
 
 console.log(names)
