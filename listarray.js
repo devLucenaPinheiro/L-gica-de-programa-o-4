@@ -1,1 +1,1 @@
-asdasdasd
+let n = ["João","Vinícius","Rodrigo","Arthur"]
