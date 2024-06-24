@@ -9,6 +9,8 @@ let names = new Array("João","Vinícius","Rodrigo","Arthur","Marco","Claudinê"
 
 names[17] = "lá ele"
 
+names[80] = names
+
 for(let i = 0; i < names.length; i++){
     document.write("Nome: " + names[i] + "<br>")
 }
