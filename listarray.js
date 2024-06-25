@@ -15,6 +15,8 @@ for(let i = 0; i < names.length; i++){
     document.write("Nome: " + names[i] + "<br>")
 }
 
+nothing
+
 console.log(names)
 
 console.log(typeof(names[17]))
