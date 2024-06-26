@@ -19,6 +19,8 @@ for(let i = 0; i < names.length; i++){
 
 nothing
 
+console.log(nomes)
+
 console.log(names)
 
 console.log(typeof(names[17]))
