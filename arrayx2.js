@@ -10,6 +10,7 @@ for(let i = 0; i < num.length; i++){
 console.log(num2x)
 
 
-x
+xxxxxxxxxxxxxxxxxxxxx
+
 
 console.log("Fim do loop")
