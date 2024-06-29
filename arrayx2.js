@@ -9,4 +9,7 @@ for(let i = 0; i < num.length; i++){
 }
 console.log(num2x)
 
+
+x
+
 console.log("Fim do loop")
