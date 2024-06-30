@@ -10,5 +10,5 @@ for(let i = 0; i < num.length; i++){
 console.log(num2x)
 
 
-
+sss
 console.log("Fim do loop")
