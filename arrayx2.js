@@ -13,5 +13,5 @@ console.log(num2x)
 console.log("Fim do loop")
 
 
-dsa
+
 
