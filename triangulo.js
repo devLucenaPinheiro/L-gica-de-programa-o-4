@@ -6,3 +6,5 @@ let area = base * altura / 2
 alert("O valor da área deste triangulo é: " + area)
 
 usuário
+
+
