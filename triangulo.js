@@ -4,4 +4,3 @@ let base = parseInt(prompt("Digite a base do triangulo."))
 let area = base * altura / 2
 
 alert("O valor da área deste triangulo é: " + area)
-
