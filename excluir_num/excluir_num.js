@@ -5,4 +5,6 @@ const listaFiltrada = lista.filter(val)
 
 let k = listaFiltrada.length
 
+
+
 console.log("A lista filtrada é:" + listaFiltrada)
