@@ -7,9 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Iniciar o Chrome em relação a localhost",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "name": "Open excluir_num.html",
+            "file": "c:\\Users\\vinye\\OneDrive\\Documentos\\Estudos\\Javascript\\Curso do Daniel Tapias\\Lógica de programação 4\\excluir_num\\excluir_num.html"
         }
     ]
 }
