@@ -1,5 +1,5 @@
 const lista = [1, 3, 3, 1, 3, 2, 1, 4, 4] //declara uma lista 
-let num =(prompt("Digite um número")) //diz o número que vai ser deletado
+let num =(prompt("Digite um número")) //pede o número (que vai ser utilizado para ser manipulado na função)
 
 const listaFiltrada = lista.filter(function(num1){
     if(num1 != num){
