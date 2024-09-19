@@ -1,10 +1,11 @@
 let grafo = {
     'A': ['B', 'C'],
     'B': ['A', 'D', 'E'],
-    'C': ['A', 'F'],
+    'C': ['A'],
     'D': ['B'],
     'E': ['B', 'F'],
-    'F': ['C', 'E']
+    'F': ['E', 'G'],
+    'G': ['F']
 };
 
 function dfs(grafo, inicio) {
@@ -27,5 +28,5 @@ function dfs(grafo, inicio) {
     }
 }
 
-console.log('Busca em Profundidade a partir do vértice D:');
-dfs(grafo, 'D');
+console.log('Busca em Profundidade a partir do vértice A:');
+dfs(grafo, 'A');
