@@ -1,7 +1,6 @@
-let lista = new Array(1,2,3,4)
-
-lista = new Array(5)
-
+const lista = ["Domingo","Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira","Sexta-feira","Sábado"]
 let dia = new Date()
 
-console.log(dia)
+dia = dia.getDay()
+
+console.log("Hoje é " + lista[dia])
